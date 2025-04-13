@@ -1,0 +1,4 @@
+score,arch,learning_rate,batch_size
+17.6385440826416,mobilenetv2,0.001,32
+16.69892120361328,mobilenetv2,0.001,16
+15.26085376739502,mobilenetv2,0.001,32
