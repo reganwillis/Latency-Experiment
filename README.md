@@ -1,7 +1,8 @@
-# Latency-Experiment
-Training a model and deploying to Jetson Nano with a goal of optimal latency.
+# Face Detector
+Two custom PyTorch models for detecting faces in images. One architecture is a copy of MobileNetV2 and one is an architecture based on early versions of YOLO. Both model architectures only detect one face per image. The MobileNetV2 architecture is deployed to a Jetson Nano.
 
-## Documentation
+Created for CSCE 790 (Edge and Neuromorphic Computing) Spring 2025 at the University of South Carolina.
+
 See the report at `docs/report.pdf`.
 
 ## Development
